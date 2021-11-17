@@ -1,6 +1,3 @@
 hello flower
 hello atguigu 22222
-hello atguigu
-hello atguigu
-hello atguigu
-hello niubi
+hello niubi 333333333333333333
