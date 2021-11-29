@@ -1,8 +1,8 @@
 # 第二组
 
 #### 成员
-1. Flower0313 肖华
-2. jerrychen417 陈露
+1. jerrychen417 陈露（组长）
+2. Flower0313 肖华
 
 #### 流程
 
